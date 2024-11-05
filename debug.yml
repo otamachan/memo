@@ -1,0 +1,5 @@
+name: memo [DEBUG MODE]
+debug: true
+baseurl: ""
+url: http://127.0.0.1:4000
+google_analytics: ""
