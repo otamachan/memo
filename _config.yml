@@ -1,0 +1,12 @@
+title: メモ
+description: 日々のメモ
+baseurl: "/memo"
+url: "https://otamachan.github.io"
+github_username:  otamachan
+#theme: minima
+plugins:
+  - jekyll-feed
+  - jekyll-remote-theme
+remote_theme: jekyll/minima@6b9b78dad3e5c9f733c901e10287465735b36169
+google_analytics: G-BT14QYTXBE
+# Add to plugins: list
